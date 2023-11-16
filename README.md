@@ -56,5 +56,8 @@
     - 파랑
 ## _No.5 Line Breaks 줄바꿈_
 \<br>를 활용해서 줄바꿈을 할 수 있습니다.<br>
-\엔터로 칸을 띄면 다음 행으로 넘어가게 됩니다. <br>은 하나의 문장에서 줄바꿈<br>
-
+\엔터로 칸을 띄면 다음 행으로 넘어가게 됩니다. \<br>은 하나의 문장에서 줄바꿈<br>
+\This is the first sentence\<br> <br>
+\This is the second sentence
+This is the first sentence<br>
+This is the second sentence
